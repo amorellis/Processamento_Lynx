@@ -1,0 +1,4 @@
+.spyproject
+venv
+*.LTX
+*.xlsx
