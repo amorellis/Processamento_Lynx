@@ -5,6 +5,7 @@ from win32com.client import Dispatch
 from numpy import trapz, mean, std, max, min, sqrt, zeros, power
 import xlsxwriter as xlsx
 
+# Antonio
 
 # Levantamento dos arquivos e respectivos nomes
 files = []
