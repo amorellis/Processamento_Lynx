@@ -52,7 +52,6 @@ for i in range(0, n_files):
     row = 10 * i
     col = 0
 
-
     # Cria a coluna de nomes
     sheet.write(row, col, files[i])
     sheet.write(row + 2, col, "Amostras")
