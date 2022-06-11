@@ -10,7 +10,7 @@ import xlsxwriter as xlsx
 # Levantamento dos arquivos e respectivos nomes
 files = []
 
-for file in os.listddeactivateir():
+for file in os.listdir():
 
     # Confere a extensão do arquivo
     if file.endswith(".LTX") or file.endswith(".LTD") or file.endswith(".TEM"):
